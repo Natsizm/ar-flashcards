@@ -1,0 +1,8 @@
+Model Information:
+* title:	Lowpoly origami whale
+* source:	https://sketchfab.com/3d-models/lowpoly-origami-whale-67dcc56156aa4888b8aaa9a72cccd767
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

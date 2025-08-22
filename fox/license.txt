@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fox
+* source:	https://sketchfab.com/3d-models/fox-f25a052be431440fad238bcf736122e5
+* author:	EduardoAceves (https://sketchfab.com/EduardoAceves)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fox" (https://sketchfab.com/3d-models/fox-f25a052be431440fad238bcf736122e5) by EduardoAceves (https://sketchfab.com/EduardoAceves) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
